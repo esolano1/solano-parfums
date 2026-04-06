@@ -50,7 +50,13 @@ function App() {
                 href="#"
                 className="font-serif text-sm uppercase tracking-tight opacity-70 transition hover:text-red-900 hover:opacity-100"
               >
-                Collections
+                Perfumes
+              </a>
+              <a
+                href="#"
+                className="font-serif text-sm uppercase tracking-tight opacity-70 transition hover:text-red-900 hover:opacity-100"
+              >
+                Estuches
               </a>
               <a
                 href="#"
@@ -62,13 +68,7 @@ function App() {
                 href="#"
                 className="font-serif text-sm uppercase tracking-tight opacity-70 transition hover:text-red-900 hover:opacity-100"
               >
-                Perfumers
-              </a>
-              <a
-                href="#"
-                className="font-serif text-sm uppercase tracking-tight opacity-70 transition hover:text-red-900 hover:opacity-100"
-              >
-                Journal
+                Perfumeros
               </a>
             </div>
           </div>
